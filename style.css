@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+#contador{
+    text-align: center;
+}
+img{
+    width: 30%;
+}
+.botones{
+    margin: 5%;
+    text-align: center;
+}
+
+button{
+    background-color:aqua;
+    border-color: white;
+    border-style:dashed;
+    width: 20%;
+    margin: 2%;
+}
